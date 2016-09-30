@@ -13,7 +13,7 @@ import java.util.ArrayList;
 public class StringAbbreviations {
 
 	/**
-	 * Prints all abbrevations of the {@paramref inputWord}. Uses a recursive method
+	 * Prints all abbrevations of the {@code inputWord}. Uses a recursive method
 	 * @param inputWord the input word for which abbrevation needs to be generated
 	 */
 	public static void getPermutationsRecursive(String inputWord){
@@ -25,7 +25,7 @@ public class StringAbbreviations {
 	}
 	
 	/**
-	 * Prints all abbrevations of the {@paramref inputWord}. Uses a  iterative method
+	 * Prints all abbrevations of the {@code inputWord}. Uses a  iterative method
 	 * @param inputWord the input word for which abbrevation needs to be generated
 	 */
 	public static void getPermutationsIterative(String inputWord) {  
